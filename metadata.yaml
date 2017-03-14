@@ -1,5 +1,8 @@
 _repo: The-Long-Ago_4757
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, J. W. (Jacob William)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1568'
     url: http://www.gutenberg.org/2009/agents/1568
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4757#The-Long-Ago
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
